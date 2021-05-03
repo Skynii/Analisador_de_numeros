@@ -1,0 +1,50 @@
+body{
+  background-color:#ddffbc;
+  font:normal 15pt Arial #52734d;
+  background: #ddffbc url("images/fundo.jpg") no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  margin:8px;
+}
+header{
+  color: #fdfffb;
+  text-align: center;
+  font-size: 35px;
+  font-family: Copperplate;
+
+  
+}
+section{
+  
+  background:#91c788;
+  border-radius: 10px;
+  padding: 15px 15px;
+  width: 50%;
+  margin:auto;
+  box-shadow: 5px 5px 10px #52734d;
+  font-size: 20px;
+  text-align: center;
+}
+
+button{
+  background-color:#cff899;
+  border: none;
+  color:#feffde;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+footer{
+  color:#52734d;
+  text-align: center;
+  font-style: italic;
+}
+select{
+  width: 150px;
+  
+}
